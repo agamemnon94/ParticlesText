@@ -27,7 +27,7 @@ ctx.fillStyle = 'white';
 ctx2.fillStyle = 'white';
 ctx.font = '16px Spartan';
 ctx2.font = '16px Spartan';
-ctx.fillText('Alexandre', 3, 15);
+ctx.fillText('Alexandre', 5, 15);
 ctx2.fillText('Braga', 22, 32);
 const textCoordinates = ctx.getImageData(0, 0, 100, 100);
 // Blueprint pour la création de particules
